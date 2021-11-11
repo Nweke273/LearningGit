@@ -1,1 +1,1 @@
-alert("You are welcome");
+alert("You are welcome to this crash course on Javascript");
